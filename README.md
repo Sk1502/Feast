@@ -15,12 +15,6 @@ You can find the theoretical concepts in the feast website itself. Link Here I w
 10. get online features using get_online_features
 11. do the prediction using the data from online feature store.
 
-Please refer the below video for end to end code explanation.
-
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=iZ8R_EUf_pM" target="_blank"><img src="http://img.youtube.com/vi/iZ8R_EUf_pM/0.jpg" 
-alt="MLFlow Live Demo" width="560" height="315" border="10" /></a>
-
 
 References:
 https://kedion.medium.com/creating-a-feature-store-with-feast-part-1-37c380223e2f#:~:text=With%20feast%20materialize%2Dincremental%20%2C%20the,of%20the%20most%20recent%20materialization.
